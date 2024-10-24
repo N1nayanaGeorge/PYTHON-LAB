@@ -1,0 +1,16 @@
+'''
+Author:Nayana George
+Date:18/10/24
+Description:To write a program that demonstrates
+            the usage of arithmetic,comparison and 
+            logical operators perform a few operators
+            and print the result
+'''
+a=10
+b=5
+print("Sum",a+b)
+print("discussion",a/b)
+print("is a greater than b?",a>b)
+print("are a and b equal?",a==b)
+print("logical AND",a>b and b<a)
+print("logical OR",a<b or b<a)
