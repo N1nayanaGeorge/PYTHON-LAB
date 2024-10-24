@@ -1,0 +1,12 @@
+'''
+Author:Nayana George
+Date:18/10/24
+Description:To write a program that uses functions
+            from the math module to perform the
+            following operators on a number pointed by the user:
+'''
+import math
+number=int(input("enter a number",))
+print("square root of",number,math.sqrt(number))
+print("factorial of",number,math.factorial(number))
+print(math.pow(a,b))
